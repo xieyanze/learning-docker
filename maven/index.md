@@ -43,8 +43,10 @@
 ## 镜像名称
 
 %g 获取project.groupId 最后一个 . 之后的部分
+
 %a 获取project.artifactId
-%l 获取project.version，如果version以-SNAPSHOT结尾，version为：latest，否则为version值。
+
+s%l 获取project.version，如果version以-SNAPSHOT结尾，version为：latest，否则为version值。
 
 例如：
 
