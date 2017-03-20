@@ -6,6 +6,5 @@ bui# Summary
     * [镜像管理](install/import.md)
     * [镜像仓库](install/registry.md)
     * [swarm](install/swarm.md)
-* [docker maven]
-    * [maven插件](maven/index.md)
+* [docker maven](maven/index)
     * [更新服务](maven/update.md)
